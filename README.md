@@ -46,3 +46,6 @@ public:
 		notifyOne();
 	}
 }
+
+3.cmake错误，CMake Error:The following variables are used in this project, but the are set to NotFound. 原因：
+cmake时选择编译器版奔驰选错，应选择x64
